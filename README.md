@@ -9,9 +9,8 @@
 ## 🚀 Proyectos Destacados
 | Proyecto              | Descripción                                  | Tecnologías       |
 |-----------------------|----------------------------------------------|-------------------|
-| Sistema de Gestión    | Sistema de tareas con Java y MySQL          | Java, MySQL       |
-| API REST              | API para gestión de usuarios con Flask      | Python, Flask     |
-| Caché con Redis       | Optimización de consultas usando Redis      | Python, Redis     |
+|                       |                                              |                   |
+|                       |                                              |                   |
 
 ## 🛠️ Tecnologías que Dominamos
 - **Lenguajes**: Java, Python.
