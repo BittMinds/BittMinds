@@ -25,8 +25,7 @@ El diseño modular prioriza la escalabilidad, mantenibilidad y una experiencia d
 
 (Aquí se incluirá el diagrama de flujo de procesos, que se mantendrá actualizado conforme avance el desarrollo.)
 
-![alt text](image-4.png)
-
+![alt text](image.png)
 ### 4. Lógica de Negocio
 
 #### 4.1 Frontend (Aplicación Angular)
