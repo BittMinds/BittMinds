@@ -179,6 +179,3 @@ El diseño modular prioriza la escalabilidad, mantenibilidad y una experiencia d
 
 El presente informe integra la lógica de negocio y las especificaciones técnicas para el desarrollo del MVP de un ecommerce modular. La solución propuesta, basada en microservicios utilizando Java (Spring Boot), Angular y PostgreSQL, está diseñada para ser escalable, mantenible y preparada para integraciones futuras. 
 
-Se han incluido recomendaciones específicas sobre la comunicación entre microservicios — combinando el enfoque sincrónico inicial con la planificación para una comunicación asíncrona mediante un bus de mensajería—, así como sugerencias en aspectos de seguridad, optimización del frontend y estrategias de monitoreo.
-
-Este informe servirá como base para el desarrollo y la validación del sistema, permitiendo iterar y ampliar la solución conforme se reciba feedback y crezcan las necesidades del negocio.
